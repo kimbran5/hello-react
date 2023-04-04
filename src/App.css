@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.book-table {
+  color: #333;
+  background: white;
+  border: 1px solid black;
+  font-size: 12pt;
+  border-collapse: collapse;
+}
+
+.book-table th {
+  padding: .5em;
+  border: 1px solid lightgrey;
+}
+
+.book-table td {
+  padding: .5em;
+  border: 1px solid lightgrey;
+}
